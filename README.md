@@ -8,5 +8,6 @@ Az XMLHTTPRequest objektum helyett az aszinkronikus kérések fetch() függvény
 
 ## Hivatkozások
 
-[fetch] (https://w3schools.com/js/js_api_fetch.asp)
-[async/await] (https://w3schools.com/js/js_async.asp)
+[fetch] (https://www.w3schools.com/js/js_api_fetch.asp)
+
+[async/await] (https://www.w3schools.com/js/js_async.asp)
